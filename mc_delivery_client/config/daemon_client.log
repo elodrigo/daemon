@@ -1,0 +1,17 @@
+2018/11/20 14:36:56 client.go:105: - - - - - - - - - - - - - - -
+2018/11/20 14:36:56 client.go:106: daemon started
+2018/11/20 14:36:56 client.go:145: sql connected
+2018/11/20 14:36:57 client.go:185: Connection to server failed:  dial tcp 54.180.30.79:8989: connect: connection refused
+2018/11/20 14:36:58 client.go:185: Connection to server failed:  dial tcp 54.180.30.79:8989: connect: connection refused
+2018/11/20 14:36:58 client.go:194: Server connection trial will be restarted in 10 sec.
+2018/11/20 14:37:08 client.go:188: Connection to server succeed
+2018/11/20 14:37:08 message-queue.go:28: queue(key=0x2a060006) exists
+2018/11/20 14:37:54 dbquery.go:13: Received message: id="1", table="detect_log_target"
+2018/11/20 14:37:54 client.go:264: 236
+2018/11/20 14:37:54 client.go:265: <nil>
+2018/11/20 14:37:54 client.go:283: EOF
+2018/11/20 14:37:55 client.go:275: Server reply: [7] [Success]
+2018/11/20 14:37:58 dbquery.go:13: Received message: id="1", table="detect_log_target"
+2018/11/20 14:37:58 client.go:264: 236
+2018/11/20 14:37:58 client.go:265: <nil>
+2018/11/20 14:37:58 client.go:275: Server reply: [7] [Success]

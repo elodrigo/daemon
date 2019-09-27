@@ -1,0 +1,11 @@
+{
+    "DBInfo": {
+        "dbUser": "",
+        "dbPassword": "",
+        "dbName": ""
+    },
+    "IPInfo": {
+        "ip": "",
+        "port": ""
+    }
+}
