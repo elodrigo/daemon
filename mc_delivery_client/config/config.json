@@ -1,11 +1,11 @@
 {
     "DBInfo": {
-        "dbUser": "mc_user",
-        "dbPassword": "1234qwer!",
-        "dbName": "wafmc_db"
+        "dbUser": "",
+        "dbPassword": "",
+        "dbName": ""
     },
     "IPInfo": {
-        "ip": "sbtest.monitorapp.com",
-        "port": ":8989"
+        "ip": "",
+        "port": ""
     }
 }
