@@ -1,5 +1,3 @@
 # daemon
 
-I'm working on writing a daemon communicating between client and server by message queue.
-
-Message queue table id in server has to be known by client.
+I was working on writing a daemon communicating between client and server by message queue last year. I started this project for study purpose, and stopped to look at for a long time. There are hundreds of bugs, however, it sends message anyway.
